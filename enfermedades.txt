@@ -1,0 +1,3 @@
+1026274267|fie,asds,sd|No determinada|2025-12-01 22:51:35
+1026274267|picazon,erupcion,hinchazon|Reacción alérgica|2025-12-01 22:52:15
+1026274267|tos,fiebre,dificultad para respirar|COVID-19|2025-12-01 22:53:15
