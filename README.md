@@ -1,0 +1,2 @@
+# clinica
+software basico clinica
